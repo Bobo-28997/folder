@@ -1,1 +1,1 @@
-# folder
+# folder for school materials
